@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "405758863820",
+    "project_id": "rma-2-alma-kuduzovic",
+    "storage_bucket": "rma-2-alma-kuduzovic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405758863820:android:b382634bbf342c89841569",
+        "android_client_info": {
+          "package_name": "com.example.rma_2_alma_kuduzovic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYaEPH1sI46cYKCTMvrKKo8fpD9gRZrSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

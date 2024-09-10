@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RMA_2_alma_kuduzovic</string>
+    <string name="price_format">$%s</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#128c76</color>
+    <color name="primaryDark">#075e54</color>
+    <color name="primaryAccent">#25d366</color>
+    <color name="primaryVarient">#ece5dd</color>
+
+
+    <color name="oker">#F5B041</color>
+
+    <color name="background_beige">#F5F5DC</color>
+    <color name="background_light_gray">#E0E0E0</color>
+    <color name="background_pale_yellow">#FFFACD</color>
+    <color name="button_dark_brown">#8B4513</color>
+    <color name="button_deep_red">#B22222</color>
+    <color name="button_olive_green">#556B2F</color>
+    <color name="bez">#FFA07A</color>
+
+    <color name="profile_icon_color">#FFD700</color>
+    <color name="logout_icon_color">#B22222</color>
+    <color name="svijetloplava">#48CAE4</color>
+</resources>
